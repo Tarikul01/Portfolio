@@ -98,7 +98,7 @@ img
 .btn-1:hover
 {
     color: var(--white);
-    background-color: rgba(0,167,142,0.7);
+    background-color:red;
 }
 
 .btn-2
@@ -117,7 +117,7 @@ img
 .btn-2:hover
 {
     color: var(--white);
-    background-color: var(--main-color);
+    background-color: red;
     border: none;
 }
 .section-padding
