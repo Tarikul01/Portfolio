@@ -320,7 +320,7 @@ img
 }
 .header-social li a:hover
 {
-    color: var(--main-color);
+    color: red;
 }
 .home-section .home-text,
 .home-section .home-image
